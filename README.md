@@ -1,2 +1,0 @@
-chicagopythonworkshop.github.io
-===============================
