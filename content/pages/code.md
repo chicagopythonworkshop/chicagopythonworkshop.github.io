@@ -2,7 +2,7 @@ Title: Code of Conduct
 Category: CodeofConduct
 
 
-Chicago Python Project Night provides a professional setting for python
+Chicago Python Workshop provides a professional setting for python
 programmers of all backgrounds and experience levels to spend time working on
 python projects. We want attendees to have an enjoyable and fulfilling
 experience.
@@ -11,7 +11,7 @@ experience.
 ### The Short Version
 
 Attendees and volunteers are expected to show sensitivity and courtesy to each
-other during project nights and related social activities. All communication
+other during project nights and related social activities. Communication
 should be appropriate for a professional context.
 
 ### The Long Version 
